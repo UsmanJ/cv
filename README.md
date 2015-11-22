@@ -50,6 +50,7 @@ When working alone, I am able to motivate myself and avoid being discouraged by 
 
 #### Makers Academy (August 2015 to November 2015)
 
+- Europe's leading software development bootcamp
 - Ability to search for solutions when blocked
 - Learning independently and pair programming
 - Conditioned to test-drive all development

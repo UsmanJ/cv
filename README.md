@@ -44,7 +44,7 @@ As well as being an enthusiastic team worker and a passionate leader, I love to 
 When working alone, I am able to motivate myself and avoid being discouraged by the fear of failing. I have worked on a start-up, which enhanced my ability to keep going when working independently, and my ‘can do ‘ mentality allows me to push myself outside of my comfort zone.
 
 - I had a business idea so I planned it and executed it alone.
-- I built the complete set of wireframes for a start-up using LucidChart and hired developers to build my idea – this is when I realized my lack of programming knowledge was a deterrent to my success and the urge to learn how to code became unbearable [RentalHunt](http://rental.thedigitalmarketingonline.com/).
+- I built the complete set of wireframes for a start-up using LucidChart and hired developers to build my idea – [RentalHunt](http://rental.thedigitalmarketingonline.com/). This is when I realized my lack of programming knowledge was a deterrent to my success and the urge to learn how to code became unbearable.
 
 ## Education
 

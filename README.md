@@ -28,7 +28,8 @@ Prioritizing things that need to be completed first and getting them done before
 
 Having been part of a number of teams, I have grown to be a team player that can constantly motivate his team and keeps team spirits high.
 
--
+- Pair programming on a daily basis allowed me motivate those whom I work with and also to understand their thought process.
+- Working as a team for my final project was another invaluable experience of working as a team. Sharing ideas, bouncing thoughts of each other and encouraging team members to believe they can do it when they are feeling low.
 
 #### Passionate Learner
 
@@ -47,21 +48,21 @@ When working alone, I am able to motivate myself and avoid being discouraged by 
 
 ## Education
 
-#### Makers Academy (08/15 to 10/15)
+#### Makers Academy (August 2015 to November 2015)
 
 - Ability to search for solutions when blocked
 - Learning independently and pair programming
 - Conditioned to test-drive all development
 
-#### Queen Mary, University of London (09/10 to 07/13)
+#### Queen Mary, University of London (September 2010 to July 2013)
 
 - BSc Engineering with Business Management
-- 2:1
+- Grade: 2:1
 
 ## Experience
 
-**Legend Chauffeurs** (08/13 to 07/15)    
+**Legend Chauffeurs** (August 2013 to July 2015)    
 *Account Manager*   
 
-**Go Executive Ltd** (04/14 to 10/15)    
+**Go Executive Ltd** (April 2014 to October 2015)    
 *Director*   

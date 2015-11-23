@@ -34,15 +34,14 @@ Having been part of a number of teams, I have grown to be a team player that can
 As well as being an enthusiastic team worker and a passionate leader, I love to learn and thus am very coachable.
 
 - Learnt how to code in 12 weeks at Makers Academy – can be seen on my GitHub
-- I learnt about tax and in return was able to discuss strategies with accountants in order to keep tax costs to a minimum in my family business
+- I learnt about corporate and income tax and in return was able to discuss strategies with accountants in order to keep tax liabilities to a minimum in my family business
 - Self-taught XCode in order to make UI designs for a start-up having never used it before
 
 #### Confident when working individually
 
 When working alone, I am able to motivate myself and avoid being discouraged by the fear of failing. I have worked on a start-up, which enhanced my ability to keep going when working independently, and my ‘can do‘ mentality allows me to push myself outside of my comfort zone.
 
-- I had a business idea so I planned it and executed it alone.
-- I built the complete set of wireframes for a start-up using LucidChart and hired developers to build my idea – [RentalHunt](http://rental.thedigitalmarketingonline.com/). This is when I realized my lack of programming knowledge was a deterrent to my success and the urge to learn how to code became unbearable.
+- I had a business idea so I planned it and executed it alone. I built the complete set of wireframes for a start-up using LucidChart and hired developers to build my idea – [RentalHunt](http://rental.thedigitalmarketingonline.com/). This is when I realized my lack of programming knowledge was a deterrent to my success and the urge to learn how to code became unbearable.
 
 ## Education
 

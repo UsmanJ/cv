@@ -26,7 +26,7 @@ Prioritizing things that need to be completed first and getting them done before
 
 Having been part of a number of teams, I have grown to be a team player that can constantly motivate his team and keeps team spirits high.
 
-- Worked with developers abroad in different time zones
+- Worked with developers abroad in different time zones for two different projects.
 - Working as a team for my final project was another invaluable experience of working as a team. Sharing ideas, bouncing thoughts of each other and encouraging team members to believe they can do it when they are feeling low
 
 #### Passionate Learner

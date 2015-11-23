@@ -12,7 +12,7 @@ Due to my entrepreneurial personality, I strive to take on challenges that could
 #### Analytical
 
 - When hiring developers for my start-up, I had to make an informed decision from the information I had available. I analyzed their previous work, the time frames in which they completed projects, specialist skills amongst the team and also the quote which they were providing me with.
-- When purchasing my flat, I decided on purchasing the property that I believed would deliver the best overall return in a five-year period. I decided to go for a property which is currently returning a 7.4% rental yield and has increased in value by 3% in 10 months.
+- I was given the opportunity to be a buyers agent for a client when he wanted to purchase an investment property. Having compared numerous properties in his price range, I advised him to purchase the property that I believed would deliver the best overall return in a five-year period. The property in question is currently returning a 7.4% rental yield and has increased in value by 3% in 10 months.
 
 #### Project Management
 

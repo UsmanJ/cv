@@ -11,8 +11,9 @@ Due to my entrepreneurial personality, I strive to take on challenges that could
 
 #### Analytical
 
-- When hiring developers for my start-up, I had to make an informed decision from the information I had available. I analyzed their previous work, the time frames in which they completed projects, specialist skills amongst the team and also the quote which they were providing me with.
-- I was given the opportunity to be a buyers agent for a client when he wanted to purchase an investment property. Having compared numerous properties in his price range, I advised him to purchase the property that I believed would deliver the best overall return in a five-year period. The property in question is currently returning a 7.4% rental yield and has increased in value by 3% in 10 months.
+-	When hiring developers for my start-up, I had to make an informed decision from the information I had available. I analysed their previous work, the time frames in which they completed projects, specialist skills amongst the team and also the quote that they were providing me with.
+-	I was given the opportunity to be a buyer’s agent for a client when he wanted to purchase an investment property. Having compared numerous properties in his price range, I advised him to purchase the property that I believed would deliver the best overall return in a five-year period. The property in question is currently returning a 7.4% rental yield and has increased in value by 3% in 10 months.
+
 
 #### Project Management
 
@@ -23,7 +24,7 @@ Due to my entrepreneurial personality, I strive to take on challenges that could
 
 Having been part of a number of teams, I have grown to be a team player that can constantly motivate his team and keeps team spirits high.
 
-- Worked with developers abroad in different time zones for two different projects.
+- Worked with developers in India on two various projects. Although we had a 5 hour time difference, we religiously communicated on a daily basis. Usually they sent me queries in the morning every morning at 6am GMT which I answered by 8am GMT. We then had a call at 10am GMT.
 - Working as a team for my final project was another invaluable experience of working as a team. Sharing ideas, bouncing thoughts of each other and encouraging team members to believe they can do it when they are feeling low.
 
 #### Passionate Learner
